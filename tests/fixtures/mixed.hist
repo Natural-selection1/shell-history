@@ -1,0 +1,36 @@
+plain command
+: 1794821035:0;multi\
+\
+line command
+ends with backslash\ 
+: 1794821035:0;bs then newline\\
+inside
+\: colon start
+: 1794821035:0;: 123:4;fake header
+echo ä¸­æƒ¶ƒ§æµƒ«è¯ƒµäºƒ¦éƒ£½
+: 1794821035:0;tab	tab
+two bs at end\\ 
+: 1794821035:0;backslash space\  
+backslash spaces\    
+: 1794821035:0;carriage
+nonutf8 ÿƒ£
+: 1794821035:0;nulƒ byte
+leading \:colon
+: 1794821035:0;all bytes ƒ 	\
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ£ƒ¤ƒ¥ƒ¦ƒ§ƒ¨ƒ©ƒªƒ«ƒ¬ƒ­ƒ®ƒ¯ƒ°ƒ±ƒ²ƒ³ƒ´ƒµƒ¶ƒ·ƒ¸ƒ¹ƒºƒ»ƒ¼ƒ½ƒ¾ƒ¿ƒ€ƒƒ‚£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ
+tail \ 
+: 1794821035:0;tail \  
+tail \   
+: 1794821035:0;tail \    
+tail \\ 
+: 1794821035:0;tail \\  
+tail \\   
+: 1794821035:0;tail \\    
+tail \\\ 
+: 1794821035:0;tail \\\  
+tail \\\   
+: 1794821035:0;tail \\\    
+tail \\\\ 
+: 1794821035:0;tail \\\\  
+tail \\\\   
+: 1794821035:0;tail \\\\    

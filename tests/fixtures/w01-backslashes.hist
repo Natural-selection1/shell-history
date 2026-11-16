@@ -1,0 +1,12 @@
+one\ 
+two\\ 
+three\\\ 
+four\\\\ 
+five\\\\\ 
+while false\
+do\
+true\\
+ && break\
+done
+echo one\\
+two

@@ -1,0 +1,36 @@
+plain command
+multi\
+\
+line command
+ends with backslash\ 
+bs then newline\\
+inside
+\: colon start
+\: 123:4;fake header
+echo ä¸­æƒ¶ƒ§æµƒ«è¯ƒµäºƒ¦éƒ£½
+tab	tab
+two bs at end\\ 
+backslash space\  
+backslash spaces\    
+carriage
+nonutf8 ÿƒ£
+nulƒ byte
+leading \:colon
+all bytes ƒ 	\
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~€‚ƒ£ƒ¤ƒ¥ƒ¦ƒ§ƒ¨ƒ©ƒªƒ«ƒ¬ƒ­ƒ®ƒ¯ƒ°ƒ±ƒ²ƒ³ƒ´ƒµƒ¶ƒ·ƒ¸ƒ¹ƒºƒ»ƒ¼ƒ½ƒ¾ƒ¿ƒ€ƒƒ‚£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüışÿ
+tail \ 
+tail \  
+tail \   
+tail \    
+tail \\ 
+tail \\  
+tail \\   
+tail \\    
+tail \\\ 
+tail \\\  
+tail \\\   
+tail \\\    
+tail \\\\ 
+tail \\\\  
+tail \\\\   
+tail \\\\    

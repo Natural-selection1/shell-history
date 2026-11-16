@@ -1,0 +1,17 @@
+[package]
+name = "zsh-history"
+version = "0.1.0"
+edition = "2024"
+description = "Byte-faithful parser for Zsh history files"
+
+[features]
+default = []
+# 高性能行迭代器,基于 memchr
+memchr = ["dep:memchr"]
+
+[dependencies]
+memchr = { version = "2.7", optional = true }
+thiserror = "2"
+
+[dev-dependencies]
+clap = { version = "4", features = ["derive"] }
